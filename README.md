@@ -1,3 +1,7 @@
+# Also look at
+https://www.elecfreaks.com/learn-en/microbitKit/Wonder_Building_Kit/index.html
+
+
 # sonarbit Package
 This ElecFreaks sonarbit package was developed by [ElecFreaks](https://www.elecfreaks.com/) with minor assistance from [Tinkercademy](https://tinkercademy.com/).
 
